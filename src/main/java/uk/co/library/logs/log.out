@@ -1,0 +1,50 @@
+2023-07-24 12:07:951 INFO  HomePage :108 - Accept Cookies 
+2023-07-24 12:07:95 INFO  HomePage :57 - Enter JobTitle Automation Tester
+2023-07-24 12:07:287 INFO  HomePage :62 - Enter Location London
+2023-07-24 12:07:756 INFO  HomePage :68 - Select Distance 10 miles
+2023-07-24 12:07:923 INFO  HomePage :74 - Click on more search options link 
+2023-07-24 12:07:62 INFO  HomePage :79 - Enter Minimum Salary 35000
+2023-07-24 12:07:200 INFO  HomePage :84 - Enter Maximum Salary 45000
+2023-07-24 12:07:348 INFO  HomePage :90 - Select Salary Type Per annum
+2023-07-24 12:07:517 INFO  HomePage :96 - Select Job Type Contract
+2023-07-24 12:07:718 INFO  HomePage :101 - Click on Find Jobs 
+2023-07-24 12:07:478 INFO  HomePage :108 - Accept Cookies 
+2023-07-24 12:07:951 INFO  HomePage :57 - Enter JobTitle Automation Engineer
+2023-07-24 12:07:230 INFO  HomePage :62 - Enter Location London
+2023-07-24 12:07:345 INFO  HomePage :68 - Select Distance 15 miles
+2023-07-24 12:07:604 INFO  HomePage :74 - Click on more search options link 
+2023-07-24 12:07:831 INFO  HomePage :79 - Enter Minimum Salary 38000
+2023-07-24 12:07:945 INFO  HomePage :84 - Enter Maximum Salary 48000
+2023-07-24 12:07:222 INFO  HomePage :90 - Select Salary Type Per annum
+2023-07-24 12:07:358 INFO  HomePage :96 - Select Job Type Contract
+2023-07-24 12:07:591 INFO  HomePage :101 - Click on Find Jobs 
+2023-07-24 12:07:788 INFO  HomePage :108 - Accept Cookies 
+2023-07-24 12:07:199 INFO  HomePage :57 - Enter JobTitle Manual Tester
+2023-07-24 12:07:408 INFO  HomePage :62 - Enter Location Luton
+2023-07-24 12:07:575 INFO  HomePage :68 - Select Distance 25 miles
+2023-07-24 12:07:753 INFO  HomePage :74 - Click on more search options link 
+2023-07-24 12:07:889 INFO  HomePage :79 - Enter Minimum Salary 30000
+2023-07-24 12:07:87 INFO  HomePage :84 - Enter Maximum Salary 45000
+2023-07-24 12:07:241 INFO  HomePage :90 - Select Salary Type Per annum
+2023-07-24 12:07:401 INFO  HomePage :96 - Select Job Type Permanent
+2023-07-24 12:07:602 INFO  HomePage :101 - Click on Find Jobs 
+2023-07-24 12:07:745 INFO  HomePage :23 - Getting ResultText 
+2023-07-24 12:07:643 INFO  HomePage :108 - Accept Cookies 
+2023-07-24 12:07:167 INFO  HomePage :57 - Enter JobTitle Retail Assistant
+2023-07-24 12:07:307 INFO  HomePage :62 - Enter Location Manchester
+2023-07-24 12:07:473 INFO  HomePage :68 - Select Distance 35 miles
+2023-07-24 12:07:673 INFO  HomePage :108 - Accept Cookies 
+2023-07-24 12:07:338 INFO  HomePage :57 - Enter JobTitle Warehouse Operative
+2023-07-24 12:07:466 INFO  HomePage :62 - Enter Location London
+2023-07-24 12:07:680 INFO  HomePage :68 - Select Distance 10 miles
+2023-07-24 12:07:592 INFO  HomePage :108 - Accept Cookies 
+2023-07-24 12:07:125 INFO  HomePage :57 - Enter JobTitle Supervisor
+2023-07-24 12:07:264 INFO  HomePage :62 - Enter Location London
+2023-07-24 12:07:470 INFO  HomePage :68 - Select Distance 25 miles
+2023-07-24 12:07:629 INFO  HomePage :74 - Click on more search options link 
+2023-07-24 12:07:792 INFO  HomePage :79 - Enter Minimum Salary 20000
+2023-07-24 12:07:912 INFO  HomePage :84 - Enter Maximum Salary 30000
+2023-07-24 12:07:49 INFO  HomePage :90 - Select Salary Type Per annum
+2023-07-24 12:07:213 INFO  HomePage :96 - Select Job Type Contract
+2023-07-24 12:07:444 INFO  HomePage :101 - Click on Find Jobs 
+2023-07-24 12:07:515 INFO  HomePage :23 - Getting ResultText 
